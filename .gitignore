@@ -1,0 +1,9 @@
+#Ignore everything
+*
+.vim/.netrwhist
+!.gitignore
+!.vimrc
+!.vim/*
+!./.vim/colors/*
+!.bashrc
+.Rproj.user
