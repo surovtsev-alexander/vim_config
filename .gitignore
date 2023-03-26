@@ -6,4 +6,7 @@
 !.vim/*
 !./.vim/colors/*
 !.bashrc
+!.gitmodules
+!./.vim/bundle/
+!.vim_fix_script.sh
 .Rproj.user
